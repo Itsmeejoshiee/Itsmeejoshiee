@@ -4,14 +4,14 @@
 }
 
 /*Type Selector*/
-h1,p {
+h1,h2 {
     font-family: Montserrat, sans-serif;
 }
 
 #profile {
     height: 250px;
     width: 250px;
-    border-radius: 50%
+    border-radius: 20%
 }
 
 body {
