@@ -14,6 +14,7 @@
 
 ###
 
+### 
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" width="75" height="60" alt="android logo"/>
   
@@ -88,8 +89,24 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeejoshiee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeejoshiee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=itsmeejoshiee&show_icons=true&theme=tokyonight"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=itsmeejoshiee&show_icons=true" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeejoshiee&layout=compact&theme=tokyonight"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeejoshiee&show_icons=true&theme=tokyonight" height=195 />
+  </picture>
+
+      
+  
   <img src="https://github-profile-trophy.vercel.app?username=itsmeejoshiee&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
