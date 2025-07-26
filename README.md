@@ -1,113 +1,83 @@
-<h1 align="center">Hi 👋 I'm Josh Gorospe</h1>
+<h1 align="left">Hey 👋 I'm Josh!</h1>
 
 ###
 
-<p align="center">Former GDSC Lead of HAU '23-'24<br>I like games and cats.</p>
+<p align="center">I'm a Software Engineer specializing in Mobile Development in Flutter and Dart. I love creating innovative and unique solutions.<br><br>Beyond Coding, I love building Communities. I strive to create spaces where people can connect and share their knowledge freely with each other. If you want to know more about me, Check out my portfolio website that is built in Flutter!</p>
 
 ###
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/yNMGjXsoYGUAAAAd/cat-cats.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif"  />
 
 ###
 
-### 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="55" height="40" alt="android logo"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="40" alt="flutter logo"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" height="40" alt="dart logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="40" alt="java logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="40" alt="python logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="40" alt="numpy logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="40" alt="pandas logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="40" alt="html5 logo"  />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="40" alt="css3 logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="40" alt="javascript logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="40" alt="bootstrap logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="40" alt="php logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="40" alt="firebase logo"  />
-  
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="75" height="60" alt="mysql logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="40" alt="linux logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="40" alt="jupyter logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="40" alt="git logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="40" alt="vscode logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="55" height="40" alt="visualstudio logo"  />
-</div>
+<p align="left">✨ I chose Computer Science because I want to support my expensive hobbies<br><br>📚 I'm currently learning Kotlin!<br><br>🎯 Goals: To be more active in Github!<br><br>🎲 Fun fact: I'm part of portfolio making group 2. The first filipino group to win the Solutions Challenge. An international hackathon created by Google to solve real world problems through Google technology.</p>
 
 ###
 
-<br clear="both">
-
-<h2 align="left">🌐 Let's Connect!</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
-
-<div align="left">
-  <a href="https://steamcommunity.com/profiles/76561198802354831/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="55" height="40" alt="steam logo" /></a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  /></a>
-  
-  <a href="https://www.linkedin.com/in/itsmeejoshie/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  /></a>
-  
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joshgorospe03@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  /></a>
-  
-  <a href="https://www.hackerrank.com/profile/joshgorospe03" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="55" height="40" alt="hackerrank logo"  /></a>
-
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
 
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=itsmeejoshiee&show_icons=true&theme=tokyonight"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=itsmeejoshiee&show_icons=true" />
-  </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeejoshiee&layout=compact&theme=tokyonight"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeejoshiee&show_icons=true&theme=tokyonight" height=195 />
-  </picture>
+###
 
-      
-  
-  <img src="https://github-profile-trophy.vercel.app?username=itsmeejoshiee&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<h2 align="left">Tools that I use</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+</div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itsmeejoshiee&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeejoshiee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=itsmeejoshiee&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
