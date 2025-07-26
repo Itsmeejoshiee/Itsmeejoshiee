@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I'm a Software Engineer specializing in Mobile Development in Flutter and Dart. I love creating innovative and unique solutions.<br><br>Beyond Coding, I love building Communities. I strive to create spaces where people can connect and share their knowledge freely with each other. If you want to know more about me, Check out my portfolio website that is built in Flutter!</h4>
+<p align="center">I'm a Software Engineer specializing in Mobile Development in Flutter and Dart. I love creating innovative and unique solutions.<br><br>Beyond Coding, I love building Communities. I strive to create spaces where people can connect and share their knowledge freely with each other. If you want to know more about me, Check out my portfolio website that is built in Flutter!</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">✨ I chose Computer Science because I want to support my expensive hobbies<br><br>📚 I'm currently learning Kotlin!<br><br>🎯 Goals: To be more active in Github!<br><br>🎲 Fun fact: I'm part of portfolio making group 2. The first filipino group to win the Solutions Challenge. An international hackathon created by Google to solve real world problems through Google technology.</h4>
+<p align="left">✨ I chose Computer Science because I want to support my expensive hobbies<br><br>📚 I'm currently learning Kotlin!<br><br>🎯 Goals: To be more active in Github!<br><br>🎲 Fun fact: I'm part of portfolio making group 2. The first filipino group to win the Solutions Challenge. An international hackathon created by Google to solve real world problems through Google technology.</p>
 
 ###
 
